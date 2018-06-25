@@ -27,6 +27,7 @@
                 </c:forEach>
             </tbody>
         </table>
+        <br />
 
         <div id="pagination">
             （全 ${reports_count} 件）<br />
